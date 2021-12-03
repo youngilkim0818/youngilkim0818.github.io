@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "유레카프로젝트에서 배운점"
+title:  "from Eureka"
 date:   2021-12-02 20:32:58 +0900
 categories: jekyll update
 comments: true
