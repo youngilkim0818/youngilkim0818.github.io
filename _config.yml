@@ -38,7 +38,7 @@ author:
 
 # Custom vars
 version: 3.0.0
-google_analytics_id: #UA-XXXX-Y
+google_analytics_id: #G-GCH6E4WR4C
 comment:
   provider:	"disqus"
   disqus:
