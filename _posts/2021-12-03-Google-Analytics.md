@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Analytics 추가 하는 법"
+title:  "Google Analytics"
 date:   2021-12-02 20:32:58 +0900
 categories: jekyll update
 comments: true
