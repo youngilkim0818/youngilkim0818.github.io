@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-# youngilkim0818.github.io
->>>>>>> 504722812df4f30efdc41c12688315ebd6c4b92c
+
 Install Git
 
 Github Page started
